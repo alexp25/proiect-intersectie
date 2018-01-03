@@ -1,0 +1,1307 @@
+[
+  {
+    "road": "I. C. Bratianu -> Universitati",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Bd. IC Bratianu->Universitate",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B.dul Costantin Prezan",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "I. de Hunedoara -> St. Celmare",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Lascar Catargiu",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Gh Manu -> Occidentului",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Splaiul Independentei->Mitropolie",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Str Lucian Blaga->Str Mircea Voda",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B-dul Carol -> Universitati",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "link for sync",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Enescu",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Lascar Catargiu -> Magheru",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "for coordination with Victoriei",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Calea Victoriei",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "D.Cantemir->Tineretului",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Sos.Kiseleff",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Bd. IC Bratianu ->Pta. Unirii",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Splaiul Independentei->Opera",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Str.Halelor->Splai",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B-dul-Dacia",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Stefan Celmare",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "I de Hunedoara -> St. Cel Mare",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B-dul Carol -> Armeneasca",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Dorobantilor -> Stefan cel mare",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Splaiul Independentei->P.ta Unirii",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Calea Dorobantilor",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "I. de Hunedoara -> Victoriei",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Gh. Manu",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Stefan Celmare -> Obor",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B.dul Aviatorilor",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Str. Halelor->Coposu",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B.dul Dimitrie Cantemir",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Lascar Catargiu -> Romana",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B-dul Regina Elisabeta -> Victoriei",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Calea Victoriei -> Dacia",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "\u00ef\u00bb\u00bf\u00c3\u00af\u00c2\u00bb\u00c2\u00bf\u00c3\u0192\u00c2\u00bf\u00c3\u0192\u00c2\u00beRoad",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Bratianu -> Unirii",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Balcescu -> Romana",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Bd. Unirii->Nerva Traian",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Stefan Celmare -> Victoriei",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Regina Elisabeta -> Universitati",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "B-dul- Dacia",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Bd. Unirii->P.ta alba Iulia",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "Bd-ul Unirii->Casa poporului",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  },
+  {
+    "road": "I. de Hunedoara",
+    "section": [
+      {
+        "from": "I. C. Bratianu - Corneliu Coposu",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bratianu av. - Coltei st.",
+        "number": 2,
+        "direction": 1
+      },
+      {
+        "from": "Piata Arcul de Triumf",
+        "data": [
+          {
+            "timestamp": "10/23/2008 0:15",
+            "flow": 804
+          }
+        ],
+        "to": "Bd. C.Prezan - Aviatorilor(Charles de Gaulle)",
+        "number": 4,
+        "direction": 1
+      }
+    ]
+  }
+]
